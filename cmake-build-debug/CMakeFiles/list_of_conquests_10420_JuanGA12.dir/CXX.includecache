@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/list-of-conquests-10420-JuanGA12/main.cpp
+iostream
+-
+map
+-
+
